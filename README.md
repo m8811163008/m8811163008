@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Milad Hesami 
-- 👀 I’m interested in Flutter and Dart
-- 📫 You can reach me on +989212805230
-
+- Hello, I’m Milad Hesami.
+- I'm an ios and android software developer.
