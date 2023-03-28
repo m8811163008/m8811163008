@@ -1,2 +1,2 @@
-- Hello, I’m Milad Hesami.
-- I'm an ios and android application developer.
+- Hello, I’m Senior Flutter Developer. My name is Milad Hesami.
+- I'm an ios and android software developer.
