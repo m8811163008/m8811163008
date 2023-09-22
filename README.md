@@ -1,3 +1,3 @@
 - Hello, I’m a Senior Flutter Developer. My name is Milad Hesami.
 - I'm an iOS and Android software developer.
-- Since 2018 I worked with private companies like ViraMiner, and Navoshgaran with governmental, organizational, and private projects. Because of non-disclosure agreements (NDA), I couldn't share projects at Git Hub.
+- Since 2018 I worked with private companies like ViraMiner, and Navoshgaran with governmental, organizational, and private projects. Because of non-disclosure agreements (NDA), I can't share many of the projects at Git Hub but you can check some of the sample ones here ;)
